@@ -49,7 +49,7 @@ public class HistoryActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 HistoryCard historyCard = list.get(position);
                 Intent intent = new Intent(HistoryActivity.this, ResultCardActivity.class);
-                intent.putExtra("Card", historyCard);
+                intent.putExtra("Card", historyCard.getCard());
                 startActivity(intent);
             }
         });
