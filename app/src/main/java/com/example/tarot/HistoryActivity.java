@@ -6,6 +6,7 @@ import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
@@ -18,6 +19,7 @@ import java.util.ListIterator;
 
 import Model.Card;
 import Model.History;
+import Model.HistoryCard;
 
 public class HistoryActivity extends AppCompatActivity {
 
@@ -27,7 +29,7 @@ public class HistoryActivity extends AppCompatActivity {
 
     GridView gridViewHistory;
     GridViewCadHistoryAdapter gridViewCadHistoryAdapter;
-    SharedPreferences sharedPreferences;
+    ArrayList<HistoryCard> list;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,8 +40,19 @@ public class HistoryActivity extends AppCompatActivity {
         tarotcunghoangdao = (LinearLayout)findViewById(R.id.tarothoangdao_history);
 
         gridViewHistory = findViewById(R.id.gridview_history);
-        gridViewCadHistoryAdapter = new GridViewCadHistoryAdapter(getListCardHistory(), getApplicationContext());
+        getListCardHistory();
+        gridViewCadHistoryAdapter = new GridViewCadHistoryAdapter(list, getApplicationContext());
         gridViewHistory.setAdapter(gridViewCadHistoryAdapter);
+
+        gridViewHistory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                HistoryCard historyCard = list.get(position);
+                Intent intent = new Intent(HistoryActivity.this, ResultCardActivity.class);
+                intent.putExtra("Card", historyCard);
+                startActivity(intent);
+            }
+        });
 
         homnay.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -65,24 +78,9 @@ public class HistoryActivity extends AppCompatActivity {
         });
     }
 
-    private List<Card> getListCardHistory(){
-        ArrayList<Card> list = new ArrayList<>();
-        sharedPreferences = getSharedPreferences("CardHistory", MODE_PRIVATE);
-        int sl = sharedPreferences.getInt("soluong", -1);
-        Toast.makeText(HistoryActivity.this, sl, Toast.LENGTH_SHORT).show();
-        for(int i = 0; i<=sl; i++){
-            String Text = sharedPreferences.getString("Text"+sl, "null");
-            String ImageCard = sharedPreferences.getString("ImageCard"+sl, "null");
-            String IdCard = sharedPreferences.getString("IdCard " + sl, "null");
-            String NameCard = sharedPreferences.getString("NameCard", "null");
-            Card card = new Card();
-            card.setIdCard(IdCard);
-            card.setText(Text);
-            card.setImageCard(ImageCard);
-            card.setNameCard(NameCard);
-            list.add(card);
-
-        }
-        return list;
+    private void getListCardHistory(){
+        MyDatabaseHelper db = MyDatabaseHelper.getInstance(getApplicationContext());
+        list = db.getAllHistoryCard();
+//        Toast.makeText(HistoryActivity.this, list.size() + "", Toast.LENGTH_LONG).show();
     }
 }

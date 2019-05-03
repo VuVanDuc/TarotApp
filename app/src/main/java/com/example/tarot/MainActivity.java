@@ -24,9 +24,11 @@ import java.nio.ByteBuffer;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 import java.nio.channels.WritableByteChannel;
+import java.util.Date;
 import java.util.Random;
 
 import Model.Card;
+import Model.HistoryCard;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -43,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     Bitmap bitmap;
     SharedPreferences sharedPreferences;
     SharedPreferences.Editor editor;
+    MyDatabaseHelper db;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,6 +63,8 @@ public class MainActivity extends AppCompatActivity {
         assetManager = getAssets();
         sharedPreferences = getSharedPreferences("CardHistory", MODE_PRIVATE);
         editor = sharedPreferences.edit();
+
+        db = MyDatabaseHelper.getInstance(getApplicationContext());
 
         //sự kiện khi click vào hình bài
         //chuyển đến trang kết quả: gồm hình ảnh+content
@@ -559,30 +564,13 @@ public class MainActivity extends AppCompatActivity {
 //                    editor.putString("ImageCard"+sl, card.getImageCard());
 //                    editor.putString("IdCard " + sl, card.getIdCard());
 //                    editor.putString("NameCard"+sl, card.getNameCard());
-                    try {
-                        InputStream inputStream = getAssets().open("history.txt");
-                        File f = getApplicationContext().getFileStreamPath("history.txt");
-                        OutputStream outputStream = new FileOutputStream(f);
-                        ByteBuffer buffer = ByteBuffer.allocateDirect(1024*8);
-                        ReadableByteChannel ich = Channels.newChannel(inputStream);
-                        WritableByteChannel och = Channels.newChannel(outputStream);
-
-                        while (ich.read(buffer) > -1 || buffer.position() > 0)
-                        {
-                            buffer.flip();
-                            och.write(buffer);
-                            buffer.compact();
-                        }
-                        ich.close();
-                        och.close();
-
-                        FileOutputStream fos = getApplicationContext().openFileOutput("history.txt", MODE_PRIVATE);
-                        ObjectOutputStream os = new ObjectOutputStream(fos);
-                        os.writeObject(card);
-                        os.close();
-                        fos.close();
-                    } catch (IOException e) {
-                        e.printStackTrace();
+                    HistoryCard historyCard = new HistoryCard();
+                    historyCard.setCard(card);
+                    historyCard.setIdCard(card.getIdCard());
+                    Date date = new Date("03/05/2019");
+                    historyCard.setViewDate(date);
+                    if(db.addHistoryCard(historyCard)){
+//                      Toast.makeText(MainActivity.this, "sdfsdfd", Toast.LENGTH_LONG).show();
                     }
                     trangthai1.setText("Hôm nay bạn đã rút bài.");
                     trangthai2.setText(" Hãy nhấn vào lá bài để xem lại!");

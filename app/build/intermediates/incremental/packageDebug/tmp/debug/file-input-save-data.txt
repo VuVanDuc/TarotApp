@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 02 16:39:39 ICT 2019
+#Fri May 03 14:50:03 ICT 2019
 20.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 143.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 237.path=MinorArcana/Pentacles/KingOfPentacles_0.png
@@ -14,7 +14,7 @@
 118.set=ASSET
 270.baseType=DIRECTORY
 0.set=ASSET
-331.path=YNghia/Minor Arcana/Swords/PageOfSwords.txt
+331.path=YNghia/Minor Arcana/Wands/KingOfWands.txt
 191.set=ASSET
 61.path=MajorArcana/1_TheMagician_0.png
 193.path=MinorArcana/Wands/2OfWands_0.txt
@@ -74,7 +74,7 @@
 121.path=MajorArcana/8_Strength_0.png
 103.set=ASSET
 154.path=MajorArcana/9_TheHermit_1.txt
-325.path=MajorArcana/10_TheWheelOfFortune_0.txt
+325.path=MinorArcana/Wands/4OfWands_0.png
 64.path=MajorArcana/14_Temperance_0.png
 187.path=MinorArcana/Swords/QueenOfSwords_0.txt
 273.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -86,7 +86,7 @@
 338.baseType=DIRECTORY
 281.path=YNghia/Minor Arcana/Pentacles/5OfPentacles.txt
 12.path=Hoangdao/songngu_zodiac.txt
-315.path=MinorArcana/Cups/AceOfCups_0.png
+315.path=MinorArcana/Cups/3OfCups_0.png
 82.set=ASSET
 221.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 333.set=ASSET
@@ -108,7 +108,7 @@
 35.path=MinorArcana/Pentacles/5OfPentacles_0.txt
 184.baseType=DIRECTORY
 111.set=ASSET
-338.path=MinorArcana/Cups/9OfCups_0.png
+338.path=Hoangdao/xunu_zodiac.txt
 312.baseType=DIRECTORY
 244.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 107.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -165,6 +165,7 @@
 71.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 195.set=ASSET
 47.set=ASSET
+339.baseType=DIRECTORY
 1.path=MajorArcana/13_Death_0.png
 172.set=ASSET
 151.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -188,7 +189,7 @@
 185.baseType=DIRECTORY
 313.baseType=DIRECTORY
 208.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
-320.path=MinorArcana/Swords/3OfSwords_0.png
+320.path=MinorArcana/Wands/10OfWands_0.png
 182.path=MinorArcana/Cups/6OfCups_1.txt
 55.set=ASSET
 306.set=ASSET
@@ -209,7 +210,7 @@
 77.baseType=DIRECTORY
 119.baseType=DIRECTORY
 83.baseType=DIRECTORY
-310.path=MinorArcana/Pentacles/2OfPentacles_0.png
+310.path=Hoangdao/kimnguu_star.txt
 125.baseType=DIRECTORY
 32.set=ASSET
 153.baseType=DIRECTORY
@@ -228,7 +229,7 @@
 30.path=MajorArcana/1_TheMagician_0.txt
 138.set=ASSET
 17.baseType=DIRECTORY
-333.path=MinorArcana/Wands/8OfWands_0.png
+333.path=MinorArcana/Pentacles/QueenOfPentacles_0.png
 45.baseType=DIRECTORY
 23.baseType=DIRECTORY
 51.baseType=DIRECTORY
@@ -265,7 +266,7 @@
 100.path=MajorArcana/9OfPentacles_0.png
 94.set=ASSET
 133.path=YNghia/Major Arcana/20_Judgement.txt
-304.path=Hoangdao/nhanma_zodiac.txt
+304.path=history.txt
 166.path=MinorArcana/Pentacles/9OfPentacles_0.txt
 268.set=ASSET
 43.path=YNghia/Major Arcana/18_TheMoon.txt
@@ -287,7 +288,7 @@
 123.path=YNghia/Minor Arcana/Cups/7OfCups.txt
 123.set=ASSET
 156.path=MajorArcana/8_Strength_1.txt
-327.path=MinorArcana/Cups/10OfCups_0.txt
+327.path=MinorArcana/Swords/3OfSwords_1.txt
 66.path=MinorArcana/Pentacles/9OfPentacles_1.txt
 189.path=MinorArcana/Cups/AceOfCups_0.txt
 275.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -304,7 +305,7 @@
 100.set=ASSET
 283.path=MinorArcana/Swords/5OfSwords_1.txt
 14.path=MinorArcana/Cups/KingOfCups_1.txt
-317.path=YNghia/Minor Arcana/Wands/6OfWands.txt
+317.path=YNghia/Minor Arcana/Pentacles/10OfPentacles.txt
 223.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 217.baseType=DIRECTORY
 245.baseType=DIRECTORY
@@ -420,7 +421,7 @@
 21.set=ASSET
 176.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 151.path=MinorArcana/Wands/KingOfWands_1.txt
-322.path=YNghia/Minor Arcana/Wands/8OfWands.txt
+322.path=MajorArcana/6_TheLovers_1.txt
 220.baseType=DIRECTORY
 184.path=MinorArcana/Cups/9OfCups_1.txt
 75.set=ASSET
@@ -437,7 +438,7 @@
 337.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 101.baseType=DIRECTORY
 199.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
-312.path=YNghia/Major Arcana/15_TheDevil.txt
+312.path=MinorArcana/Cups/5OfCups_0.png
 52.set=ASSET
 303.set=ASSET
 174.path=YNghia/Minor Arcana/Pentacles/3OfPentacles.txt
@@ -451,7 +452,7 @@
 203.set=ASSET
 158.set=ASSET
 32.path=MinorArcana/Wands/5OfWands_0.txt
-335.path=YNghia/Minor Arcana/Swords/QueenOfSwords.txt
+335.path=YNghia/Major Arcana/3_TheEmpress.txt
 241.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 197.path=MinorArcana/Pentacles/7OfPentacles_0.png
 104.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -483,7 +484,7 @@
 316.baseType=DIRECTORY
 194.baseType=DIRECTORY
 135.path=MinorArcana/Cups/8OfCups_0.png
-306.path=YNghia/Major Arcana/11_Justice.txt
+306.path=MinorArcana/Swords/2OfSwords_0.png
 288.set=ASSET
 168.path=MinorArcana/Wands/2OfWands_0.png
 45.path=YNghia/Minor Arcana/Pentacles/4OfPentacles.txt
@@ -508,7 +509,7 @@
 188.set=ASSET
 156.baseType=DIRECTORY
 158.path=Hoangdao/bocap_star.txt
-329.path=YNghia/Minor Arcana/Cups/9OfCups.txt
+329.path=MinorArcana/Pentacles/8OfPentacles_0.png
 134.baseType=DIRECTORY
 162.baseType=DIRECTORY
 190.baseType=DIRECTORY
@@ -522,7 +523,7 @@
 285.path=MajorArcana/12_TheHangedMan_0.txt
 16.path=Hoangdao/cugiai_star.txt
 148.path=MinorArcana/Cups/PageOfCups_0.png
-319.path=MinorArcana/Wands/10OfWands_0.png
+319.path=YNghia/Major Arcana/4_The Emperor.txt
 225.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 17.set=ASSET
 26.baseType=DIRECTORY
@@ -535,7 +536,7 @@
 181.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 275.path=YNghia/Minor Arcana/Wands/AceOfWands.txt
 91.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
-309.path=Hoangdao/kimnguu_star.txt
+309.path=YNghia/Major Arcana/10_TheWheelOfFortune.txt
 215.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 273.set=ASSET
 39.path=MinorArcana/Pentacles/QueenOfPentacles_0.txt
@@ -577,7 +578,7 @@
 85.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 7.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 108.set=ASSET
-330.path=YNghia/Minor Arcana/Wands/KingOfWands.txt
+330.path=YNghia/Minor Arcana/Cups/9OfCups.txt
 181.set=ASSET
 226.baseType=DIRECTORY
 254.baseType=DIRECTORY
@@ -640,7 +641,7 @@
 215.set=ASSET
 120.path=MajorArcana/5_TheHierophant_0.txt
 153.path=MajorArcana/19_TheSun_0.png
-324.path=MinorArcana/Wands/4OfWands_0.png
+324.path=MinorArcana/Wands/10OfWands_1.txt
 63.path=MinorArcana/Wands/3OfWands_1.txt
 186.path=YNghia/Minor Arcana/Cups/PageOfCups.txt
 95.set=ASSET
@@ -648,9 +649,10 @@
 269.set=ASSET
 36.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 147.set=ASSET
+339.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 280.path=MinorArcana/Swords/3OfSwords_0.txt
 11.path=MinorArcana/Cups/QueenOfCups_1.txt
-314.path=MinorArcana/Cups/3OfCups_0.png
+314.path=MinorArcana/Pentacles/8OfPentacles_1.txt
 72.set=ASSET
 220.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 323.set=ASSET
@@ -667,7 +669,7 @@
 223.set=ASSET
 34.path=MajorArcana/4_The Emperor_0.png
 101.set=ASSET
-337.path=Hoangdao/xunu_zodiac.txt
+337.path=MinorArcana/Pentacles/5OfPentacles_0.png
 243.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 318.baseType=DIRECTORY
 196.baseType=DIRECTORY
@@ -705,7 +707,7 @@
 104.path=YNghia/Minor Arcana/Swords/10OfSwords.txt
 29.set=ASSET
 137.path=MinorArcana/Cups/4OfCups_0.png
-308.path=YNghia/Major Arcana/10_TheWheelOfFortune.txt
+308.path=MinorArcana/Cups/7OfCups_0.png
 47.path=MinorArcana/Swords/9OfSwords_1.txt
 231.set=ASSET
 256.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -796,7 +798,7 @@
 230.baseType=DIRECTORY
 9.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 128.set=ASSET
-332.path=MinorArcana/Pentacles/QueenOfPentacles_0.png
+332.path=YNghia/Minor Arcana/Swords/PageOfSwords.txt
 29.baseType=DIRECTORY
 194.path=MinorArcana/Wands/10OfWands_0.txt
 57.baseType=DIRECTORY
@@ -856,7 +858,7 @@
 113.set=ASSET
 295.baseType=DIRECTORY
 155.path=YNghia/Major Arcana/5_TheHierophant.txt
-326.path=MinorArcana/Swords/3OfSwords_1.txt
+326.path=MajorArcana/10_TheWheelOfFortune_0.txt
 65.path=YNghia/Minor Arcana/Pentacles/KnightOfPentacles.txt
 188.path=MinorArcana/Cups/7OfCups_1.txt
 274.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -869,7 +871,7 @@
 167.set=ASSET
 282.path=MajorArcana/18_TheMoon_1.txt
 13.path=MajorArcana/6_TheLovers_0.png
-316.path=YNghia/Minor Arcana/Pentacles/10OfPentacles.txt
+316.path=MinorArcana/Cups/AceOfCups_0.png
 92.set=ASSET
 222.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 178.path=MajorArcana/4_The Emperor_0.txt
@@ -894,6 +896,7 @@
 243.set=ASSET
 36.path=MajorArcana/3_TheEmpress_1.txt
 121.set=ASSET
+339.path=MinorArcana/Cups/9OfCups_0.png
 245.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 108.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 220.path=YNghia/Minor Arcana/Swords/2OfSwords.txt
@@ -976,6 +979,7 @@
 10.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 167.baseType=DIRECTORY
 88.set=ASSET
+339.set=ASSET
 313.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 323.baseType=DIRECTORY
 11.set=ASSET
@@ -985,7 +989,7 @@
 290.set=ASSET
 209.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 150.path=MinorArcana/Cups/2OfCups_0.png
-321.path=MajorArcana/6_TheLovers_1.txt
+321.path=MinorArcana/Swords/3OfSwords_0.png
 183.path=MajorArcana/5_TheHierophant_1.txt
 204.baseType=DIRECTORY
 232.baseType=DIRECTORY
@@ -1007,7 +1011,7 @@
 71.baseType=DIRECTORY
 113.baseType=DIRECTORY
 141.baseType=DIRECTORY
-311.path=MinorArcana/Cups/5OfCups_0.png
+311.path=MinorArcana/Pentacles/2OfPentacles_0.png
 42.set=ASSET
 173.path=MinorArcana/Swords/9OfSwords_0.txt
 216.set=ASSET
@@ -1022,7 +1026,7 @@
 148.set=ASSET
 31.path=Hoangdao/sutu_star.txt
 11.baseType=DIRECTORY
-334.path=YNghia/Major Arcana/3_TheEmpress.txt
+334.path=MinorArcana/Wands/8OfWands_0.png
 240.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 196.path=MinorArcana/Cups/10OfCups_1.txt
 103.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -1056,7 +1060,7 @@
 101.path=MajorArcana/3_TheEmpress_0.txt
 328.baseType=DIRECTORY
 134.path=MinorArcana/Cups/KingOfCups_0.png
-305.path=MinorArcana/Swords/2OfSwords_0.png
+305.path=Hoangdao/nhanma_zodiac.txt
 167.path=MinorArcana/Pentacles/PageOfPentacles_0.txt
 278.set=ASSET
 44.path=YNghia/Minor Arcana/Wands/3OfWands.txt
@@ -1079,7 +1083,7 @@
 133.set=ASSET
 178.set=ASSET
 157.path=YNghia/Minor Arcana/Cups/10OfCups.txt
-328.path=MinorArcana/Pentacles/8OfPentacles_0.png
+328.path=MinorArcana/Cups/10OfCups_0.txt
 98.baseType=DIRECTORY
 168.baseType=DIRECTORY
 67.path=MajorArcana/2_TheHighPriestess_0.png
@@ -1097,7 +1101,7 @@
 233.baseType=DIRECTORY
 15.path=Hoangdao/maket_star.txt
 147.path=MajorArcana/11_Justice_1.txt
-318.path=YNghia/Major Arcana/4_The Emperor.txt
+318.path=YNghia/Minor Arcana/Wands/6OfWands.txt
 224.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 286.set=ASSET
 38.baseType=DIRECTORY
@@ -1171,7 +1175,7 @@
 169.baseType=DIRECTORY
 147.baseType=DIRECTORY
 175.baseType=DIRECTORY
-count=339
+count=340
 303.baseType=DIRECTORY
 331.baseType=DIRECTORY
 77.set=ASSET
@@ -1211,7 +1215,7 @@ count=339
 177.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 205.set=ASSET
 152.path=Hoangdao/songtu_star.txt
-323.path=MinorArcana/Wands/10OfWands_1.txt
+323.path=YNghia/Minor Arcana/Wands/8OfWands.txt
 62.path=MinorArcana/Pentacles/KingOfPentacles_1.txt
 185.path=MinorArcana/Cups/8OfCups_1.txt
 85.set=ASSET
@@ -1225,7 +1229,7 @@ count=339
 137.set=ASSET
 338.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 10.path=MinorArcana/Wands/KnightOfWands_1.txt
-313.path=MinorArcana/Pentacles/8OfPentacles_1.txt
+313.path=YNghia/Major Arcana/15_TheDevil.txt
 62.set=ASSET
 313.set=ASSET
 175.path=MinorArcana/Swords/KingOfSwords_1.txt
@@ -1239,7 +1243,7 @@ count=339
 213.set=ASSET
 168.set=ASSET
 33.path=YNghia/Major Arcana/7_TheChariot.txt
-336.path=MinorArcana/Pentacles/5OfPentacles_0.png
+336.path=YNghia/Minor Arcana/Swords/QueenOfSwords.txt
 242.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 198.path=MinorArcana/Pentacles/AceOfPentacles_0.txt
 105.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
@@ -1274,7 +1278,7 @@ count=339
 103.path=MinorArcana/Wands/6OfWands_1.txt
 19.set=ASSET
 136.path=MajorArcana/17_TheStar_0.png
-307.path=MinorArcana/Cups/7OfCups_0.png
+307.path=YNghia/Major Arcana/11_Justice.txt
 298.set=ASSET
 169.path=MinorArcana/Swords/KnightOfSwords_0.png
 46.path=YNghia/Minor Arcana/Pentacles/9OfPentacles.txt

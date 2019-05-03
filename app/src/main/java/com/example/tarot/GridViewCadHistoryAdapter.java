@@ -15,14 +15,14 @@ import java.io.InputStream;
 import java.util.List;
 
 import Model.Card;
-import Model.Tarot;
+import Model.HistoryCard;
 
 public class GridViewCadHistoryAdapter extends BaseAdapter {
-    List<Card> listCard;
+    List<HistoryCard> listCard;
     private LayoutInflater layoutInflater;
     Context context;
 
-    public GridViewCadHistoryAdapter(List<Card> listCard, Context context) {
+    public GridViewCadHistoryAdapter(List<HistoryCard> listCard, Context context) {
         this.listCard = listCard;
         layoutInflater = LayoutInflater.from(context);
         this.context = context;
@@ -59,11 +59,11 @@ public class GridViewCadHistoryAdapter extends BaseAdapter {
         } else {
             viewImageTextHolder = (GridViewCadHistoryAdapter.ViewImageTextHolder) convertView.getTag();
         }
-        Card card = listCard.get(position);
+        HistoryCard card = listCard.get(position);
 
-        viewImageTextHolder.date_history.setText("03/05/2019");
+        viewImageTextHolder.date_history.setText(card.getViewDate().toString());
         try{
-            InputStream inputStream = context.getAssets().open(card.getImageCard());
+            InputStream inputStream = context.getAssets().open(card.getCard().getImageCard());
             Bitmap image = BitmapFactory.decodeStream(inputStream);
             viewImageTextHolder.card_history_image.setImageBitmap(image);
             inputStream.close();

@@ -1,12 +1,22 @@
 package Model;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class HistoryCard {
+public class HistoryCard implements Serializable {
     private int id;
     private String idCard;
     private boolean isDeleted;
     private Date viewDate;
+    private Card card;
+
+    public Card getCard() {
+        return card;
+    }
+
+    public void setCard(Card card) {
+        this.card = card;
+    }
 
     public int getId() {
         return id;
