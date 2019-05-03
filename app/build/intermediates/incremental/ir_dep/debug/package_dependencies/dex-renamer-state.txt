@@ -1,0 +1,4 @@
+#Tue Apr 30 15:40:27 ICT 2019
+base.0=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

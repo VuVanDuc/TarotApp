@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ffcaee3769ce95ba179ff43d00864e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ab45e8bbb68660b16045339089a3bc43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4f4a1684d07360e1187ace57bc188ffb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\eabaa16beec02f879fc9b75f16979be7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ca539bfd425a80462a6fa76a4e99144e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\1bd29b112cb63552eafd9c9ca61caac0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\9b31529569520028a457ce68672f2aca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e0edfac1d60d63a84de0e6d300362444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5c9b6ce3295058e14a34e9b7d0216894\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\543fc97c28e49b0fb197f0b558cebf44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\32402453481be08398a4b546eb9e52e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5a21b0da99d6f41e4734d9bede090189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5a03d94b50fd82deef249f86da44bdce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\475d6a98132b7975be78ce221f09a6c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5993975e714a4318fbe9f73bb07dc8ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e5472ab2c242cf368b2a591d1affca7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\9f6a33cbc763868b8c017c58d828641c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\b5e4ac7d585dd31705f6b4d88d7020e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\1db24755cec77ba3cf551e82f645f9d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\675bd434808f04105ae52105aa7b71cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\a6f35bb1cb07762d6f6e5106c3bf29f3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\66fb10d81ac5cad3a4dcd55c0d6943c2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\22fc23e8389f83986588ef68a3745109\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\61dfaa40b3ac82331db5bc285d1f8d0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4edf2b89f085d647d552382e8421a3ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\09b1212848fc5ee48aae0a07c3c142d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\990e9e2b6fdc4d25a27d375021daa8a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\c0e8ccaf9a793595c5f18f466c57f8f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\f8451d5d02de024ce447c2f6c3d5d51a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\86aa7e2a84c16d6c579333993a588a84\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e008b6945136728352d30a4d5583110a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\563f0de3872a51a82d1111e77713398a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\303c7c42969165c5e4267dd5cc123947\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4f4a1684d07360e1187ace57bc188ffb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4f4a1684d07360e1187ace57bc188ffb\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\a6f35bb1cb07762d6f6e5106c3bf29f3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\a6f35bb1cb07762d6f6e5106c3bf29f3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\66fb10d81ac5cad3a4dcd55c0d6943c2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\66fb10d81ac5cad3a4dcd55c0d6943c2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\a6f35bb1cb07762d6f6e5106c3bf29f3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.tarot.TarotResultActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:14:9-66
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:14:19-54
+activity#com.example.tarot.TarotActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:15:19-48
+activity#com.example.tarot.HistoryActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:9-53
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:19-50
+activity#com.example.tarot.CardResultActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:17:9-20:59
+	android:label
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:19:13-63
+	android:theme
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:18:13-47
+activity#com.example.tarot.ResultCardActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.tarot.MainActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:30:9-32:55
+	android:value
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:31:13-58
+provider#com.facebook.FacebookContentProvider
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:34:9-37:39
+	android:authorities
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:36:13-90
+	android:exported
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:35:13-64
+uses-sdk
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ffcaee3769ce95ba179ff43d00864e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ffcaee3769ce95ba179ff43d00864e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ab45e8bbb68660b16045339089a3bc43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ab45e8bbb68660b16045339089a3bc43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4f4a1684d07360e1187ace57bc188ffb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4f4a1684d07360e1187ace57bc188ffb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\eabaa16beec02f879fc9b75f16979be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\eabaa16beec02f879fc9b75f16979be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ca539bfd425a80462a6fa76a4e99144e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\ca539bfd425a80462a6fa76a4e99144e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\1bd29b112cb63552eafd9c9ca61caac0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\1bd29b112cb63552eafd9c9ca61caac0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\9b31529569520028a457ce68672f2aca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\9b31529569520028a457ce68672f2aca\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e0edfac1d60d63a84de0e6d300362444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e0edfac1d60d63a84de0e6d300362444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5c9b6ce3295058e14a34e9b7d0216894\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5c9b6ce3295058e14a34e9b7d0216894\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\543fc97c28e49b0fb197f0b558cebf44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\543fc97c28e49b0fb197f0b558cebf44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\32402453481be08398a4b546eb9e52e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\32402453481be08398a4b546eb9e52e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5a21b0da99d6f41e4734d9bede090189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5a21b0da99d6f41e4734d9bede090189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5a03d94b50fd82deef249f86da44bdce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5a03d94b50fd82deef249f86da44bdce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\475d6a98132b7975be78ce221f09a6c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\475d6a98132b7975be78ce221f09a6c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5993975e714a4318fbe9f73bb07dc8ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\5993975e714a4318fbe9f73bb07dc8ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e5472ab2c242cf368b2a591d1affca7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e5472ab2c242cf368b2a591d1affca7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\9f6a33cbc763868b8c017c58d828641c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\9f6a33cbc763868b8c017c58d828641c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\b5e4ac7d585dd31705f6b4d88d7020e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\b5e4ac7d585dd31705f6b4d88d7020e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\1db24755cec77ba3cf551e82f645f9d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\1db24755cec77ba3cf551e82f645f9d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\675bd434808f04105ae52105aa7b71cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\675bd434808f04105ae52105aa7b71cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\a6f35bb1cb07762d6f6e5106c3bf29f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\a6f35bb1cb07762d6f6e5106c3bf29f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\66fb10d81ac5cad3a4dcd55c0d6943c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\66fb10d81ac5cad3a4dcd55c0d6943c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\22fc23e8389f83986588ef68a3745109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\22fc23e8389f83986588ef68a3745109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\61dfaa40b3ac82331db5bc285d1f8d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\61dfaa40b3ac82331db5bc285d1f8d0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4edf2b89f085d647d552382e8421a3ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\4edf2b89f085d647d552382e8421a3ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\09b1212848fc5ee48aae0a07c3c142d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\09b1212848fc5ee48aae0a07c3c142d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\990e9e2b6fdc4d25a27d375021daa8a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\990e9e2b6fdc4d25a27d375021daa8a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\c0e8ccaf9a793595c5f18f466c57f8f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\c0e8ccaf9a793595c5f18f466c57f8f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\f8451d5d02de024ce447c2f6c3d5d51a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\f8451d5d02de024ce447c2f6c3d5d51a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\86aa7e2a84c16d6c579333993a588a84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\86aa7e2a84c16d6c579333993a588a84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e008b6945136728352d30a4d5583110a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e008b6945136728352d30a4d5583110a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\563f0de3872a51a82d1111e77713398a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\563f0de3872a51a82d1111e77713398a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\303c7c42969165c5e4267dd5cc123947\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\303c7c42969165c5e4267dd5cc123947\AndroidManifest.xml:20:5-44
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:34:19-64
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\fc4df75b2e7777a2c786a2791b909671\AndroidManifest.xml:48:25-92
