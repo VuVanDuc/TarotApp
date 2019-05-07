@@ -2,8 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="20dp"
     android:layout_marginStart="15dp"
+    android:layout_marginTop="20dp"
     android:layout_marginEnd="15dp"
     android:orientation="vertical">
 
@@ -11,23 +11,25 @@
         android:id="@+id/card_image"
         android:layout_width="150dp"
         android:layout_height="250dp"
+        android:layout_marginLeft="120dp"
         android:layout_marginTop="5dp"
         android:background="@drawable/card_template"
-        android:scaleType="centerCrop"
-        android:layout_marginLeft="120dp"/>
+        android:scaleType="centerCrop" />
+
     <ScrollView
         android:id="@+id/childScroll"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <TextView
-            android:textColor="#ffffff"
-            android:textSize="20dp"
             android:id="@+id/content_card"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"
-            android:text="@string/Paragraph"
             android:layout_marginLeft="5dp"
-            android:layout_marginRight="5dp"/>
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="5dp"
+            android:text="@string/Paragraph"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
     </ScrollView>
 </LinearLayout>

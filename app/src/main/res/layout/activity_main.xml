@@ -11,132 +11,124 @@
         android:id="@+id/logo"
         android:layout_width="173dp"
         android:layout_height="105dp"
-        android:layout_alignParentLeft="true"
+        android:layout_alignParentLeft="false"
         android:layout_centerHorizontal="true"
-        android:layout_marginLeft="120dp"
         android:layout_marginTop="80dp"
         android:background="@drawable/ic_text_tarot"
-        tools:ignore="MissingConstraints"
-        />
+        tools:ignore="MissingConstraints"/>
 
     <TextView
         android:id="@+id/slogan"
-        android:layout_below="@+id/logo"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="19dp"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="20dp"
         android:text="MA THUẬT TỪ NHỮNG LÁ BÀI"
         android:textAlignment="center"
-        android:textColor="@color/yellow"
+        android:textColor="#FFC107"
         android:textStyle="bold"
-        tools:ignore="MissingConstraints"
-        android:layout_marginLeft="80dp"
-        android:layout_marginTop="15dp"/>
+        tools:ignore="MissingConstraints" />
 
     <ImageView
-        android:layout_below="@+id/slogan"
         android:id="@+id/card_back"
         android:layout_width="163dp"
         android:layout_height="244dp"
+        android:layout_below="@+id/slogan"
+        android:layout_alignParentLeft="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
         android:background="@drawable/card"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="124dp"
-        tools:layout_editor_absoluteY="250dp"
-        android:layout_marginLeft="130dp"
-        android:layout_marginTop="30dp"
-        />
+        tools:layout_editor_absoluteY="250dp" />
 
     <TextView
         android:id="@+id/trangthai1"
-        android:layout_below="@+id/card_back"
-        android:layout_width="315dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/card_back"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
         android:text="Hãy giữ tâm trí bạn thư giãn và nghĩ về điều bạn quan tâm nhất"
         android:textAlignment="center"
         android:textColor="@android:color/holo_blue_light"
         android:textSize="15dp"
         android:textStyle="bold"
-        tools:ignore="MissingConstraints"
-        android:layout_marginLeft="45dp"
-        android:layout_marginTop="30dp" />
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/trangthai2"
-        android:layout_below="@+id/trangthai1"
-        android:layout_width="315dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/trangthai1"
+        android:layout_marginTop="15dp"
         android:text="(Mỗi ngày chỉ có thể rút 1 lá bài)"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="15dp"
         android:textStyle="bold"
-        tools:ignore="MissingConstraints"
-        android:layout_marginLeft="45dp"
-        android:layout_marginTop="5dp" />
+        tools:ignore="MissingConstraints" />
 
     <LinearLayout
         android:id="@+id/chucnangchinh"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/trangthai2"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
         android:orientation="horizontal"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="612dp"
         tools:ignore="MissingConstraints"
-        android:layout_marginTop="50dp"
-        >
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="612dp">
 
         <LinearLayout
             android:layout_width="135dp"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            >
+            android:layout_height="match_parent">
 
             <LinearLayout
                 android:id="@+id/homnay"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_marginLeft="35dp">
+                android:orientation="vertical">
 
                 <ImageView
-
                     android:layout_width="25dp"
                     android:layout_height="25dp"
-                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="center_horizontal"
                     android:background="@drawable/ic_menu_intro" />
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Hôm nay"
-                    android:textColor="@android:color/white"/>
-
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white" />
             </LinearLayout>
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="135dp"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical">
 
             <LinearLayout
                 android:id="@+id/lichsu"
-                android:layout_width="wrap_content"
+                android:layout_width="135dp"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
-                android:layout_marginLeft="35dp">
+                android:textAlignment="center"
+                tools:visibility="visible">
 
                 <ImageView
-
                     android:layout_width="25dp"
                     android:layout_height="25dp"
-                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="center_horizontal"
                     android:background="@drawable/ic_menu_his" />
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="135dp"
                     android:layout_height="wrap_content"
                     android:text="Lịch sử"
-                    android:textColor="@android:color/white"/>
-
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white" />ss
             </LinearLayout>
         </LinearLayout>
 
@@ -146,22 +138,21 @@
             android:orientation="vertical">
             <LinearLayout
                 android:id="@+id/tarothoangdao"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_marginLeft="30dp">
+                android:orientation="vertical">
 
                 <ImageView
-
                     android:layout_width="25dp"
                     android:layout_height="25dp"
-                    android:layout_marginLeft="35dp"
+                    android:layout_gravity="center_horizontal"
                     android:background="@drawable/ic_tarot_cung_hoan_dao" />
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Cung hoàng đạo"
-                    android:textColor="@android:color/white"/>
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white" />
 
             </LinearLayout>
         </LinearLayout>

@@ -14,17 +14,20 @@
         <activity android:name=".TarotResultActivity"></activity>
         <activity android:name=".TarotActivity" />
         <activity android:name=".HistoryActivity" />
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".CardResultActivity"
             android:label="@string/title_activity_card_result"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".ResultCardActivity" />
         <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
         <meta-data

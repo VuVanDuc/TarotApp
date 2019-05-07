@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
         lungbai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "Bai cua ban la!", Toast.LENGTH_SHORT).show();
+//                Toast.makeText(MainActivity.this, "Bai cua ban la!", Toast.LENGTH_SHORT).show();
                 if(darut==0){
                     int i = random.nextInt(21);
                     String des = new String();

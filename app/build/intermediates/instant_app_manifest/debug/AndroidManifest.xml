@@ -24,17 +24,19 @@
         <activity android:name="com.example.tarot.TarotResultActivity" />
         <activity android:name="com.example.tarot.TarotActivity" />
         <activity android:name="com.example.tarot.HistoryActivity" />
+        <activity android:name="com.example.tarot.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.example.tarot.CardResultActivity"
             android:label="@string/title_activity_card_result"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.tarot.ResultCardActivity" />
         <activity android:name="com.example.tarot.MainActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
         <meta-data

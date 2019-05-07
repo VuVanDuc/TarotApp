@@ -1,4 +1,4 @@
-#Fri May 03 14:52:04 ICT 2019
+#Fri May 03 15:56:36 ICT 2019
 base.0=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

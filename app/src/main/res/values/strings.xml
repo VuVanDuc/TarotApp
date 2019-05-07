@@ -1,5 +1,23 @@
 <resources>
     <string name="app_name">Tarot</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Future!</string>
+    <string name="slide_1_desc">The easiest way to see what will come to you in the future!</string>
+
+    <string name="slide_2_title">Love</string>
+    <string name="slide_2_desc">We will tell you when you meet you soul mate!</string>
+
+    <string name="slide_3_title">Job</string>
+    <string name="slide_3_desc">Aren\'t you curious about your career!</string>
+
+    <string name="slide_4_title">Horoscope</string>
+    <string name="slide_4_desc">Let\'t see what the stars tell about you!</string>
+
+    <string name="facebook_app_id">328887804441513</string>
     <string name="title_activity_card_result">CardResultActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -8,5 +26,4 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="Paragraph"> Write your paragraph here. </string>
-    <string name="facebook_app_id">328887804441513</string>
 </resources>

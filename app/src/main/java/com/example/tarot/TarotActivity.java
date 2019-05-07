@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.ImageView;
 
 import java.util.ArrayList;
 
@@ -16,6 +17,7 @@ public class TarotActivity extends AppCompatActivity {
     ArrayList<Tarot> listTarot;
     GridView gridViewTarot;
     GridViewCustomAdapter gridViewCustomAdapter;
+    ImageView back_tarot;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +25,7 @@ public class TarotActivity extends AppCompatActivity {
         setContentView(R.layout.activity_tarot);
 
         gridViewTarot = findViewById(R.id.gridview_tarot);
-
+        back_tarot = findViewById(R.id.back_button);
         creatData();
 
         gridViewCustomAdapter = new GridViewCustomAdapter(listTarot, getApplicationContext());
@@ -36,6 +38,16 @@ public class TarotActivity extends AppCompatActivity {
                 Intent intent = new Intent(TarotActivity.this, TarotResultActivity.class);
                 intent.putExtra("Tarot", tarot);
                 startActivity(intent);
+            }
+        });
+
+        back_tarot.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TarotActivity.this,MainActivity.class);
+//                intent.putExtra("darut","1");
+                startActivity(intent);
+                finish();
             }
         });
     }

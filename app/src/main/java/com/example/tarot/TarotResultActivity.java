@@ -6,6 +6,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -21,11 +22,14 @@ public class TarotResultActivity extends AppCompatActivity {
     TextView tarot_zodiac, tarot_star, tarot_detail1, tarot_detail2, tarot_name;
     ImageView tarot_image1, tarot_image2;
     AssetManager assetManager;
+    ImageView back_button, share_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tarot_result);
+
+        back_button = findViewById(R.id.back_button);
 
         intent = getIntent();
         tarot = (Tarot) intent.getSerializableExtra("Tarot");
@@ -69,5 +73,15 @@ public class TarotResultActivity extends AppCompatActivity {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        back_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TarotResultActivity.this, TarotActivity.class);
+//                intent.putExtra("darut","1");
+                startActivity(intent);
+                finish();
+            }
+        });
     }
 }
