@@ -1,0 +1,2 @@
+# TarotApp
+Android Project
