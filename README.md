@@ -1,2 +1,3 @@
 # TarotApp
-Android Project
+Android Project.
+This is a tarot app.
