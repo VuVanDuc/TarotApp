@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d471ddfb6d04d024fd4bfb24428733dc\AndroidManifest.xml:21:1-37:12
@@ -41,20 +41,20 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VuDuc\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e008b6945136728352d30a4d5583110a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\563f0de3872a51a82d1111e77713398a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\303c7c42969165c5e4267dd5cc123947\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-43:12
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:2:11-69
@@ -63,7 +63,7 @@ ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xm
 	android:name
 		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:7:5-41:19
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:7:5-43:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\e1f31a8d566440f0d5c0ba0a0daa523f\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\VuDuc\.gradle\caches\transforms-2\files-2.1\d794cb9d7f6d47225538cb417b232728\AndroidManifest.xml:28:5-29:19
@@ -92,62 +92,72 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VuDuc\.gra
 		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:13:9-40
-activity#com.example.tarot.TarotResultActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:14:9-66
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:14:19-54
-activity#com.example.tarot.TarotActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:15:9-51
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:15:19-48
-activity#com.example.tarot.HistoryActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:9-53
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:19-50
-activity#com.example.tarot.WelcomeActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:17:9-23:20
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:17:19-50
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:18:13-22:29
-action#android.intent.action.MAIN
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:21:27-74
-activity#com.example.tarot.CardResultActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:24:9-27:59
-	android:label
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:26:13-63
-	android:theme
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:27:13-56
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:25:13-47
-activity#com.example.tarot.ResultCardActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:28:9-56
-	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:28:19-53
 activity#com.example.tarot.MainActivity
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:29:9-31:20
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:14:9-15:20
 	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:14:19-47
+activity#com.example.tarot.GameXocDiaActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:9-94
+	android:screenOrientation
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:54-91
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:16:19-53
+activity#com.example.tarot.TarotResultActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:17:9-57
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:17:19-54
+activity#com.example.tarot.TarotActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.example.tarot.HistoryActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.example.tarot.WelcomeActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:20:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.tarot.ResultCardActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:27:19-53
+activity#com.example.tarot.GameTarotActivity
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:28:9-55
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:28:19-52
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:33:9-35:55
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:30:9-32:55
 	android:value
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:35:13-52
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:32:13-52
 	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:34:13-58
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:31:13-58
 provider#com.facebook.FacebookContentProvider
-ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:37:9-40:39
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:34:9-37:39
 	android:authorities
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:39:13-90
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:36:13-90
 	android:exported
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:38:13-64
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:35:13-64
+service#com.example.tarot.MyService
+ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:39:9-42:47
+	android:enabled
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml:40:13-38
 uses-sdk
 INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Document\Nam4\LapTrinhDiDong\Tarot\app\src\main\AndroidManifest.xml

@@ -1,23 +1,16 @@
 package com.example.tarot;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
 
-import Model.Card;
 import Model.History;
 import Model.HistoryCard;
 
@@ -26,6 +19,7 @@ public class HistoryActivity extends AppCompatActivity {
     private LinearLayout homnay;
     private LinearLayout lichsu;
     private LinearLayout tarotcunghoangdao;
+    private ImageView backButtonHistory;
 
     GridView gridViewHistory;
     GridViewCadHistoryAdapter gridViewCadHistoryAdapter;
@@ -38,6 +32,7 @@ public class HistoryActivity extends AppCompatActivity {
         homnay = (LinearLayout) findViewById(R.id.homnay_history);
         lichsu = (LinearLayout)findViewById(R.id.lichsu_history);
         tarotcunghoangdao = (LinearLayout)findViewById(R.id.tarothoangdao_history);
+        backButtonHistory = findViewById(R.id.back_button_history);
 
         gridViewHistory = findViewById(R.id.gridview_history);
         getListCardHistory();
@@ -54,11 +49,19 @@ public class HistoryActivity extends AppCompatActivity {
             }
         });
 
+        backButtonHistory.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
+
         homnay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(HistoryActivity.this,MainActivity.class);
+                Intent intent = new Intent(HistoryActivity.this, GameTarotActivity.class);
                 startActivity(intent);
+                finish();
             }
         });
 
@@ -74,6 +77,7 @@ public class HistoryActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(HistoryActivity.this,TarotActivity.class);
                 startActivity(intent);
+                finish();
             }
         });
     }

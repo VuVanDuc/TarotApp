@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 03 14:52:06 ICT 2019
+#Thu Aug 15 20:27:34 ICT 2019
 20.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 143.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 237.path=MinorArcana/Pentacles/KingOfPentacles_0.png
@@ -56,7 +56,7 @@
 325.set=ASSET
 99.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 131.path=MinorArcana/Pentacles/6OfPentacles_0.txt
-302.path=MajorArcana/16_TheTower_0.txt
+302.path=MajorArcana/13_Death_1.txt
 41.path=MinorArcana/Swords/PageOfSwords_0.txt
 164.path=Hoangdao/thienbinh_zodiac.txt
 248.set=ASSET
@@ -266,7 +266,7 @@
 100.path=MajorArcana/9OfPentacles_0.png
 94.set=ASSET
 133.path=YNghia/Major Arcana/20_Judgement.txt
-304.path=history.txt
+304.path=MinorArcana/Swords/4OfSwords_1.txt
 166.path=MinorArcana/Pentacles/9OfPentacles_0.txt
 268.set=ASSET
 43.path=YNghia/Major Arcana/18_TheMoon.txt
@@ -623,7 +623,7 @@
 55.baseType=DIRECTORY
 98.base=D\:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\merged_assets\\debug\\out
 130.path=MajorArcana/20_Judgement_0.png
-301.path=MajorArcana/13_Death_1.txt
+301.path=history.txt
 61.baseType=DIRECTORY
 40.path=MajorArcana/12_TheHangedMan_1.txt
 103.baseType=DIRECTORY
@@ -838,7 +838,7 @@
 84.set=ASSET
 335.set=ASSET
 132.path=MinorArcana/Pentacles/7OfPentacles_1.txt
-303.path=MinorArcana/Swords/4OfSwords_1.txt
+303.path=MajorArcana/16_TheTower_0.txt
 42.path=MinorArcana/Swords/2OfSwords_0.txt
 165.path=MinorArcana/Wands/PageOfWands_0.png
 258.set=ASSET

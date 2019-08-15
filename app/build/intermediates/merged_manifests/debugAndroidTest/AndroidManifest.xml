@@ -3,7 +3,7 @@
     package="com.example.tarot.test" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="15"
         android:targetSdkVersion="28" />
 
     <instrumentation

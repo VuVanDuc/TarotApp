@@ -1,15 +1,19 @@
 [
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\a6f35bb1cb07762d6f6e5106c3bf29f3\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_favicon_blue.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable\\com_facebook_favicon_blue.xml"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\a6f35bb1cb07762d6f6e5106c3bf29f3\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_shutdown.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\shutdown.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -20,12 +24,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\color\\mtrl_btn_bg_color_selector.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\color-v23\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -40,12 +44,20 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\543fc97c28e49b0fb197f0b558cebf44\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_datcuoc.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\datcuoc.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_penta.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\penta.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -56,12 +68,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-hdpi-v4\\com_facebook_close.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide2.xml.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-hdpi-v4\\com_facebook_close.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -88,36 +100,40 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_color_selector.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\color\\mtrl_btn_text_color_selector.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_color_selector.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\a6f35bb1cb07762d6f6e5106c3bf29f3\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_love.png.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxhdpi\\love.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_quarta.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\quarta.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -128,12 +144,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d794cb9d7f6d47225538cb417b232728\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
@@ -144,20 +160,28 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
-        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_welcome.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\welcome.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\color\\mtrl_btn_stroke_color_selector.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_playmusic.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\playmusic.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -204,48 +228,56 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-hdpi-v4\\com_facebook_button_icon_blue.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kqtutu.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\kqtutu.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_songngu.png.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\songngu.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_danh_gia.png.flat",
-        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\ic_menu_danh_gia.png"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_danh_gia.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\ic_menu_danh_gia.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mobat.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\mobat.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bocap.png.flat",
@@ -312,12 +344,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.png.flat",
@@ -344,12 +376,12 @@
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxhdpi\\magic_ball.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_show_motion_spec.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
@@ -368,6 +400,10 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_tarot.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\activity_game_tarot.xml"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\color\\mtrl_chip_background_color.xml"
     },
@@ -382,6 +418,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_item_history.xml.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\card_item_history.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_onclick.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\onclick.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -408,6 +448,10 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nen.jpg.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\nen.jpg"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_close.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-mdpi-v4\\com_facebook_close.png"
     },
@@ -422,6 +466,14 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_stopmusic.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\stopmusic.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_doublekill.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\doublekill.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sutu.png.flat",
@@ -450,6 +502,18 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d794cb9d7f6d47225538cb417b232728\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_lola.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\lola.mp3"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background.jpg.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\background.jpg"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kqchan1.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\kqchan1.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -668,6 +732,10 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kqle1.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\kqle1.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -682,6 +750,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_icon_white.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d471ddfb6d04d024fd4bfb24428733dc\\res\\drawable-hdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
@@ -796,6 +868,10 @@
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\ic_back.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi-v21\\ic_launcher_background.xml"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_list_menu_item_layout.xml"
     },
@@ -814,6 +890,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_mean.png.flat",
@@ -1096,12 +1176,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\a6f35bb1cb07762d6f6e5106c3bf29f3\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_ball.png.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-hdpi\\magic_ball.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1110,6 +1190,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kqle2.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\kqle2.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1188,12 +1272,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1288,6 +1372,10 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kqle.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\kqle.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\a6f35bb1cb07762d6f6e5106c3bf29f3\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
@@ -1298,6 +1386,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1348,20 +1440,28 @@
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\ic_menu_his.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_vibrate.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\anim\\vibrate.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_state_list_anim.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\animator\\mtrl_btn_state_list_anim.xml"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1370,10 +1470,6 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
-        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1464,12 +1560,20 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_choitiep.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\choitiep.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector_colored.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_quaylai.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\quaylai.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
@@ -1572,6 +1676,10 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chan.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\chan.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_detail.png.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\bg_detail.png"
     },
@@ -1616,12 +1724,12 @@
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable\\baobinh.png"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
@@ -1656,12 +1764,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_tarot_item.xml.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\tarot_item.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maket.png.flat",
@@ -1690,6 +1798,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_snackbar_background.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_le.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\le.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1734,6 +1846,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_tripplekill.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\tripplekill.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1840,12 +1956,12 @@
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\item_grid_view_custom_image_and_text.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
@@ -1888,8 +2004,16 @@
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\a6f35bb1cb07762d6f6e5106c3bf29f3\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d794cb9d7f6d47225538cb417b232728\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tutu.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\tutu.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1914,6 +2038,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cong.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\cong.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
@@ -2040,6 +2168,14 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\d794cb9d7f6d47225538cb417b232728\\res\\drawable-hdpi-v4\\com_facebook_button_send_icon_blue.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_first_blood_lol_sound_748194.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\first_blood_lol_sound_748194.mp3"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_xoc_dia.xml.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\layout\\activity_game_xoc_dia.xml"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\color\\switch_thumb_material_dark.xml"
     },
@@ -2062,6 +2198,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\raw_vexento_lonely_dance.mp3.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\raw\\vexento_lonely_dance.mp3"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
@@ -2152,6 +2292,14 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_nen.jpg.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\mipmap-anydpi-v26\\nen.jpg"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kqchan.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\kqchan.png"
+    },
+    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
@@ -2168,12 +2316,12 @@
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
     },
     {
-        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_brain.png.flat",
         "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\brain.png"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\ffcaee3769ce95ba179ff43d00864e7e\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2190,6 +2338,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_vang.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\vang.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2214,6 +2366,10 @@
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\VuDuc\\.gradle\\caches\\transforms-2\\files-2.1\\e1f31a8d566440f0d5c0ba0a0daa523f\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bat.png.flat",
+        "source": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\src\\main\\res\\drawable-xxxhdpi\\bat.png"
     },
     {
         "merged": "D:\\Document\\Nam4\\LapTrinhDiDong\\Tarot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",

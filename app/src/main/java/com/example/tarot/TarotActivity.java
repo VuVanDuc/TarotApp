@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 
 import java.util.ArrayList;
 
@@ -19,6 +20,10 @@ public class TarotActivity extends AppCompatActivity {
     GridViewCustomAdapter gridViewCustomAdapter;
     ImageView back_tarot;
 
+    private LinearLayout homnay;
+    private LinearLayout lichsu;
+    private LinearLayout tarotcunghoangdao;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,6 +31,9 @@ public class TarotActivity extends AppCompatActivity {
 
         gridViewTarot = findViewById(R.id.gridview_tarot);
         back_tarot = findViewById(R.id.back_button);
+        homnay = findViewById(R.id.homnay_tarot);
+        lichsu = findViewById(R.id.lichsu_tarot);
+        tarotcunghoangdao = findViewById(R.id.tarothoangdao_tarot);
         creatData();
 
         gridViewCustomAdapter = new GridViewCustomAdapter(listTarot, getApplicationContext());
@@ -44,10 +52,35 @@ public class TarotActivity extends AppCompatActivity {
         back_tarot.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(TarotActivity.this,MainActivity.class);
+                Intent intent = new Intent(TarotActivity.this, GameTarotActivity.class);
 //                intent.putExtra("darut","1");
                 startActivity(intent);
                 finish();
+            }
+        });
+
+        homnay.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TarotActivity.this, HistoryActivity.class);
+                startActivity(intent);
+                finish();
+            }
+        });
+
+        lichsu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TarotActivity.this, HistoryActivity.class);
+                startActivity(intent);
+                finish();
+            }
+        });
+
+        tarotcunghoangdao.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
             }
         });
     }

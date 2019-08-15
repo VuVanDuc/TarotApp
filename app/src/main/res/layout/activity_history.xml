@@ -7,11 +7,42 @@
     tools:context=".HistoryActivity"
     android:background="@drawable/bg_detail">
 
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/bar_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:id="@+id/back_button_history"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/ic_back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="LỊCH SỬ"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </android.support.design.widget.AppBarLayout>
+
     <GridView
+        android:paddingTop="30dp"
+        android:layout_below="@+id/bar_history"
         android:id="@+id/gridview_history"
         android:layout_width="match_parent"
         android:layout_height="570dp"
-        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:columnWidth="120dp"
         android:gravity="center"
@@ -21,7 +52,8 @@
         android:id="@+id/chucnangchinh"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/gridview_history"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="10dp"
         android:layout_marginTop="40dp"
         android:orientation="horizontal"
         tools:ignore="MissingConstraints"
